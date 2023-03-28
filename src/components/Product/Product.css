@@ -39,6 +39,7 @@
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    color: #0E161A;
 }
 .btn-cart:hover {
     background-color: orange;
